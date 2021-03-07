@@ -12,6 +12,6 @@ There are two main directory
 # Installation
 
 1. Backend - Go into backend folder and run "npm i" to install dependencies. To run test just type in "npm test". To run the backedn just type in "npm start". NOTE: backend needs to be running to be able to get the correct computation.
-2. Frontend - Go into frontend folder and run "npm server".
+2. Frontend - Go into frontend folder and run "npm run server".
 
 Let me know if you have any questions.
